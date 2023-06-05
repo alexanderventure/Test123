@@ -1,0 +1,4 @@
+The file did open
+testing
+this
+out
